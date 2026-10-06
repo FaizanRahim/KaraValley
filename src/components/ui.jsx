@@ -40,7 +40,7 @@ export function MountainMark({ className = "h-5 w-5" }) {
 export function Logo({ className = "" }) {
   return (
     <a href="#top" className={`group flex shrink-0 items-center gap-2.5 ${className}`} aria-label="KaraValley, home">
-      <span className="grid h-9 w-9 shrink-0 place-items-center rounded-xl border border-white/10 bg-white/[0.04] shadow-[inset_0_1px_0_rgba(255,255,255,0.14)] transition group-hover:border-mint/40">
+      <span className="grid h-9 w-9 shrink-0 place-items-center rounded-xl border border-white/10 bg-white/4 shadow-[inset_0_1px_0_rgba(255,255,255,0.14)] transition group-hover:border-mint/40">
         <MountainMark />
       </span>
       <span className="font-display text-[0.92rem] font-semibold tracking-tight whitespace-nowrap text-snow sm:text-base">
