@@ -11,7 +11,7 @@ export const defaultSite = {
   heroText: 'A curated freelance marketplace where every professional profile is reviewed before it goes live.',
   missionTitle: 'My Mission',
   missionText: 'My mission is to connect talented freelancers with real opportunities, build trust between clients and professionals, and create a platform where skills are valued fairly across borders.',
-  ownerName: 'Faizan Rahim',
+  ownerName: 'Faizan Rahim & Farhan Ali',
   ownerRole: 'Founder, KaraValley',
   ownerImage: '',
   aboutTitle: 'Building a trusted bridge between talent and opportunity.',
@@ -28,7 +28,7 @@ export const defaultSite = {
 export const defaultFreelancers = [
   {
     id: 'faizan-rahim',
-    name: 'Faizan Rahim',
+    name: 'Faizan Rahim & Farhan Ali',
     email: 'faizan@example.com',
     password: 'demo1234',
     title: 'Full Stack Developer',

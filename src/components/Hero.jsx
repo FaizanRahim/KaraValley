@@ -117,7 +117,7 @@ export default function Hero({ onOpenProfile, onJoin }) {
               <div className="glass float-mid h-full overflow-hidden rounded-3xl">
                 <img src="/faizan.png" alt="Faizan" className="glow-card-image" />
                 <div className="p-4">
-                  <p className="text-[0.68rem] font-semibold tracking-[0.16em] text-gold uppercase">Faizan Rahim</p>
+                  <p className="text-[0.68rem] font-semibold tracking-[0.16em] text-gold uppercase">Faizan Rahim & Farhan Ali</p>
                   <p className="mt-2 text-sm leading-relaxed text-mist">Your profile image shown directly on the home page.</p>
                 </div>
               </div>
