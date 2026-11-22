@@ -12,7 +12,7 @@ export const availabilityOptions = ["Any", "Available now", "This week", "Booked
 export const freelancers = [
   {
     id: "faizan-rahim",
-    name: "Faizan Rahim",
+    name: "Faizan Rahim & Farhan Ali",
     title: "Frontend Developer",
     location: "Hunza, Gilgit-Baltistan",
     category: "Web Development",
@@ -526,7 +526,7 @@ export const posts = [
     read: "6 min",
     tag: "For freelancers",
     paragraphs: [
-      "Faizan Rahim starts before the light hits the ridge. The morning is for the hard interface problems; the afternoon is for review with clients who are just waking up in other time zones. The river is loud enough that calls happen indoors.",
+      "Faizan Rahim & Farhan Ali starts before the light hits the ridge. The morning is for the hard interface problems; the afternoon is for review with clients who are just waking up in other time zones. The river is loud enough that calls happen indoors.",
       "None of that is a brand story we invented. It is simply how a lot of serious work already happens in the north: carefully, with a long view, and in conversation with people elsewhere.",
       "A profile here should sound like that. Name the work. Show the result. Leave the postcard language for someone else.",
     ],
