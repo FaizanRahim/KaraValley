@@ -13,7 +13,6 @@ export default function HomePage({ site, freelancers, onOpenProfile, onJoin }) {
           <h1>{site.heroTitle}</h1>
           <p>{site.heroText}</p>
           <div className="hero-actions">
-            <a className="btn" href="#/freelancers">Find Freelancers <ArrowRight size={17} /></a>
             <a className="btn btn-secondary" href="#/freelancer-register">Join as Freelancer</a>
           </div>
           <div className="trust-row">
