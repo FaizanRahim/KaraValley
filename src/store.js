@@ -16,7 +16,7 @@ export const defaultSite = {
   ownerImage: '',
   aboutTitle: 'Building a trusted bridge between talent and opportunity.',
   aboutText: 'KaraValley is an online services marketplace created to help clients discover verified freelance talent while giving professionals a clean, credible place to showcase their skills. Profiles are reviewed by the platform administrator before publication.',
-  phone: '+92 3412973825 / 700730286',
+  phone: '+92 3412973825 / 700730386',
   email: 'hello@KaraValley.com',
   primary: '#2997ff',
   accent: '#6ee7b7',
