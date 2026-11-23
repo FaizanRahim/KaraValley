@@ -857,12 +857,6 @@ select.field option {
   border-color:#9d4444;
 }
 
-.dashboard-title {
-  display:flex;
-  justify-content:space-between;
-  align-items:center;
-  gap:15px;
-}
 
 .inline-user {
   display:flex;
